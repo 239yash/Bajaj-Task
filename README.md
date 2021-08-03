@@ -1,2 +1,3 @@
 # Bajaj-Task
-EndPoint - /bfhl
+EndPoint for this Project is - /bfhl
+Method - POST
